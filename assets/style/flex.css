@@ -1,3 +1,5 @@
+/* Cabeçalho */
+
 .menu{
     display: flex;
     justify-content: space-evenly;
@@ -38,3 +40,5 @@
         order: 2;
     }
 }
+
+/* Banner */
